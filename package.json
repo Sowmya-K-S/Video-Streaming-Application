@@ -2,7 +2,7 @@
   "name": "video-streaming-application",
   "version": "1.0.0",
   "description": "This is a full-stack video streaming application. It serves as a proof of concept.",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
@@ -17,6 +17,7 @@
     "uuid": "^9.0.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "video.js": "^8.19.1"
   }
 }
